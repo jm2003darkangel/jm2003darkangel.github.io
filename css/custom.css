@@ -64,9 +64,10 @@ body, html{
 }
 
 .ptext .border{
-  background-color: #111;
+  background-color: #FF0DFF;
   color: #fff;
   padding: 20px;
+  opacity: 0.70;
 }
 
 .ptext .border.trans{
