@@ -74,6 +74,15 @@ body, html{
   background-color: transparent;
 }
 
+img{
+position: relative;
+display: block;
+padding-top: 50px;
+margin:auto;
+height: 200px;
+
+}
+
 @media(max-width: 500px){
   .pimg1, .pimg2, pimg3{
     background-attachment: scroll;
